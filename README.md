@@ -2,6 +2,5 @@
 
 Welcome to my GitHub!
 
-I am currently studying computer engineering and computer science at the University of Louisville Speed School of Engineering.
-I enjoy programming in Java and C#, but also have some experience in c, c++, and Objective-C.
-I am interested in iOS developement and web application developement.
+I am currently working as a Software Engineer in mobile app development for both iOS and Android.
+I enjoy programming in Java and Objective-C, but also have some experience in C, C++, C# and Swift.
